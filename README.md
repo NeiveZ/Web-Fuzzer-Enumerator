@@ -37,8 +37,8 @@ WFEX can identify directories, files, and potentially sensitive file extensions 
 ## Installation
 
 ```bash
-git clone https://github.com/NeiveZ/WFEX.git
-cd WFEX
+git clone https://github.com/NeiveZ/Web-Fuzzer-Enumerator.git
+cd Web-Fuzzer-Enumerator
 chmod +x wfex.sh
 ```
 
